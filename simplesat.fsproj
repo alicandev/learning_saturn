@@ -6,13 +6,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Saturn" Version="*"/>
+    <PackageReference Include="Saturn" Version="*" />
 
     <Compile Include="Hello\HelloView.fs" />
     <Compile Include="Hello\HelloController.fs" />
 
     <Compile Include="Router.fs" />
-    <Compile Include="App.fs" />
+    <Compile Include="Program.fs" />
   </ItemGroup>
 
 </Project>

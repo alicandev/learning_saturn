@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\demir\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\demir\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\demir\Dev\SaturnFundamentals" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Hello" t="Include">
+        <e p="HelloController.fs" t="Include" />
+        <e p="HelloView.fs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.fs" t="Include" />
+      <e p="Router.fs" t="Include" />
+      <e p="simplesat.fsproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
