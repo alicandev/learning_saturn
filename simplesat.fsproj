@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -6,8 +6,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="Program.fs" />
     <PackageReference Include="Saturn" Version="*"/>
+
+    <Compile Include="Hello\HelloView.fs" />
+    <Compile Include="Hello\HelloController.fs" />
+
+    <Compile Include="Router.fs" />
+    <Compile Include="App.fs" />
   </ItemGroup>
 
 </Project>
